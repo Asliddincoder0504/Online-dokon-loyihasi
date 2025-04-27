@@ -1,2 +1,3 @@
-# Ecommerse
-Ecommerse
+
+# Online-dokon-loyihasi
+Online do'kon
